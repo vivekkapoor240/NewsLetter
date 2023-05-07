@@ -1,0 +1,9 @@
+body{
+    background-color:wheat;
+}
+.top{
+    background-color: blue;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
